@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="img/hanabi.jpg" height="200" />
-</p>
-
 # Hanabi Conventions for the TAPS group
 
 <br />
