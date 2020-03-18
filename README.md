@@ -1,4 +1,5 @@
 # Hanabi Conventions for the TAPS group
+[Variant-Specific Conventions](https://github.com/eskolnik/taps-hanabi-conventions/blob/master/variant-specific-conventions.md) 
 
 <br />
 
