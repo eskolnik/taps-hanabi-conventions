@@ -15,6 +15,6 @@
 
 ### Other Quick Links
 
-* The documents in this repostiory assume that you are already familiar with the basic rules of Hanabi. If you need to brush up on them, see [this Pastebin written by Tricky](http://pastebin.com/6brGz2J4) or [watch my video explanation](https://www.youtube.com/watch?v=jR9i1qCbHXQ).
+* The documents in this repostiory assume that you are already familiar with the basic rules of Hanabi. If you need to brush up on them, see [this Pastebin written by Tricky](http://pastebin.com/6brGz2J4) or [watch Zamiell's video explanation](https://www.youtube.com/watch?v=jR9i1qCbHXQ).
 * [Hanabi Live](http://hanabi.live/).
 * [Hanabi Discord server](https://discord.gg/FADvkJp).
