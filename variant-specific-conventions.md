@@ -1,4 +1,4 @@
-# Pink and Brown
+# Pink
 ### Known Pink Tempo Play Clue
 If a Tempo Clue reveals one or more of the retouched cards to be Pink, the clue giver must have had a Free Choice when deciding between a number- or color-clue to give. This is because it’s no longer possible to have any additional Pink cards. One of two plays are indicated:
 If ‘pink’ was given, the focused card (left-most) is immediately playable (nothing more else is promised about any remaining pink cards).
@@ -10,7 +10,7 @@ Alice clues ‘4’ to Bob, which only retouches slots 3 and 5.
 Bob now sees his slot 3 must be his only Pink card, and notes that this is a Tempo Play Clue. Bob realizes Alice could have clued Pink, but chose to clue 4 instead.
 Bob blind plays his slot 4 card as a Positional Play Clue.
 
-
+# Brown
 ### Brown Tempo Play Clue
 If a Tempo Clue retouches one or more cards marked as Brown, the player should play their rightmost card touched and only their rightmost card touched. This acts as a Focus Inversion for two reasons: 
 There is never a direct way to further distinguish brown cards once hinted
